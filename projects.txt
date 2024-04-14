@@ -1,0 +1,14 @@
+https://t.me/c/1105135741/83                     | It's a Magisk module that changes the boot animation of MIUI/AOSP roms with TitaniumOS's
+https://t.me/PocoX3Discussions/128142 MiuiMod v5 | MiuiMod module series was one of my most known projects on these days. It adds tons of features of bettter Xiaomi devices' to that device. 5. version
+https://t.me/PocoX3Discussions/128158 MiuiMod v6 | MiuiMod's latest and most used version.
+https://t.me/pocox3tr/278781                     | CherishOS 2.5 for Poco X3. AOSP Custom ROM build for Surya device. One of my first AOSP ROM builds.
+https://t.me/PocoX3Discussions/201114            | CherishOS 2.6 had lots of fans when i released it. Its first build was causing bootloop for some users, i tried to fix it a lot. Device tree issues :D
+https://t.me/PocoX3Discussions/243479            | CherishOS 2.7.5 was stable and lovely.
+https://t.me/PocoX3Discussions/285051            | MIUI 11 Android 10 Port for X3. X3 was released with MIUI 12 and officially/unofficially there wasn't any official MIUI 11 rom for it.
+I did this crazy port ROM from joyeuse and except 1-2 minor problem it was sick. Global community was shocked when release message was just posted :D Most enjoyable build ever for me.
+https://t.me/PocoX3Discussions/290546            | MIUI 12.5 Android 11 Port. X3 was accessing to the lastest MIUI updates very late, and people arent trust to other dev's to flash their Port roms,
+because these arent open-sourced. I did this China build and it was too stable and fast rom to execute. And it's China local ROM, there is too many advantages of Chinese roms but officially Poco X3 series was not for sale
+in China and dont have it. That's why people wanted a Chinese port from me to use.
+
+That's all that i can find. I couldnt find most of my experimental crazy projects.
+Idk about rom builds but maybe my old modules could be found on x3 global / x3 turkey telegram groups.
